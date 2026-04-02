@@ -48,6 +48,11 @@ pip install pandas matplotlib
 Run the notebook
 
 jupyter notebook
+
+
 Summary
+
+
 Provides a simple method for early outbreak detection
+
 Useful for public health monitoring and analysis
